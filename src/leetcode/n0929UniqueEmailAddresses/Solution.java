@@ -1,4 +1,4 @@
-package leetcode.n929UniqueEmailAddresses;
+package leetcode.n0929UniqueEmailAddresses;
 
 import java.util.HashSet;
 import java.util.Set;
